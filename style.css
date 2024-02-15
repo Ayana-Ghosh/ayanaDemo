@@ -1,0 +1,15 @@
+p{
+    color: wheat;
+    border: 10px;
+    text-shadow: 5px;
+    text-align: center;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: brown;
+}
+
+a{
+    text-decoration: dotted;
+    font-size: 20px;
+    color: black;
+}
